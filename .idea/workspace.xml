@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Tests2/ProductTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Product.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/advanced-java-3.iml" afterPath="$PROJECT_DIR$/advanced-java-3.iml" />
+      <change beforePath="$PROJECT_DIR$/Tests2/ProductTest.java" afterPath="$PROJECT_DIR$/Tests2/ProductTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" afterPath="$PROJECT_DIR$/src/Product.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,22 +40,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="250">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ProductTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests2/ProductTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="1150">
+              <caret line="50" column="45" lean-forward="true" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+              <folding>
+                <element signature="e#395#412#0" expanded="true" />
+                <element signature="e#475#496#0" expanded="true" />
+                <element signature="e#475#496#0" expanded="true" />
+                <element signature="e#522#539#0" expanded="true" />
+                <element signature="e#626#645#0" expanded="true" />
+                <element signature="e#709#736#0" expanded="true" />
+                <element signature="e#709#736#0" expanded="true" />
+                <element signature="e#772#791#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,8 +82,6 @@
               <folding>
                 <element signature="e#433#455#0" expanded="true" />
                 <element signature="e#538#558#0" expanded="true" />
-                <element signature="e#624#653#0" expanded="true" />
-                <element signature="e#624#653#0" expanded="true" />
                 <element signature="e#685#707#0" expanded="true" />
               </folding>
             </state>
@@ -157,6 +167,11 @@
             </path>
             <path>
               <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -199,26 +214,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExamplesTest">
+  <component name="RunManager" selected="JUnit.ProductTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="advanced-java-3" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -234,13 +235,13 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="ExamplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="advanced-java-3" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExamplesTest" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -254,14 +255,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ExamplesTest.getExampleIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductTest.getProductId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="advanced-java-3" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExamplesTest" />
-      <option name="METHOD_NAME" value="getExampleIdTest" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="getProductId" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -274,14 +275,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ExamplesTest.getExampleName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductTest.getProductName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="advanced-java-3" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExamplesTest" />
-      <option name="METHOD_NAME" value="getExampleName" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="getProductName" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -294,14 +295,34 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ExamplesTest.setExampleIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductTest.setProductId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="advanced-java-3" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExamplesTest" />
-      <option name="METHOD_NAME" value="setExampleIdTest" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="setProductId" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ProductTest.setProductName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="advanced-java-3" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductTest" />
+      <option name="METHOD_NAME" value="setProductName" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -375,19 +396,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.App" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ExamplesTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ExamplesTest.getExampleName" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ExamplesTest.getExampleIdTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ExamplesTest.setExampleIdTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ProductTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductId" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductId" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductName" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductName" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ExamplesTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ExamplesTest.setExampleIdTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ExamplesTest.getExampleIdTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ExamplesTest.getExampleName" />
-        <item index="4" class="java.lang.String" itemvalue="Application.App" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ProductTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductName" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductName" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductId" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductId" />
       </list>
     </recent_temporary>
   </component>
@@ -413,23 +434,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExamplesTest - 2018.04.19 at 12h 42m 54s.xml">
-      <configuration name="ExamplesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExamplesTest - 2018.04.19 at 14h 44m 34s.xml">
-      <configuration name="ExamplesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ExamplesTest - 2018.04.19 at 14h 54m 40s.xml">
       <configuration name="ExamplesTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ExamplesTest_getExampleIdTest - 2018.04.19 at 14h 52m 32s.xml">
       <configuration name="ExamplesTest.getExampleIdTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExamplesTest_getExampleName - 2018.04.19 at 14h 49m 46s.xml">
-      <configuration name="ExamplesTest.getExampleName" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ExamplesTest_setExampleIdTest - 2018.04.19 at 14h 54m 04s.xml">
       <configuration name="ExamplesTest.setExampleIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest - 2018.04.19 at 15h 03m 12s.xml">
+      <configuration name="ProductTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest - 2018.04.19 at 15h 06m 45s.xml">
+      <configuration name="ProductTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest - 2018.04.19 at 15h 15m 31s.xml">
+      <configuration name="ProductTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_getProductName - 2018.04.19 at 15h 09m 51s.xml">
+      <configuration name="ProductTest.getProductName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_setProductId - 2018.04.19 at 15h 08m 54s.xml">
+      <configuration name="ProductTest.setProductId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_setProductId - 2018.04.19 at 15h 09m 11s.xml">
+      <configuration name="ProductTest.setProductId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductTest_setProductName - 2018.04.19 at 15h 11m 20s.xml">
+      <configuration name="ProductTest.setProductName" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -438,13 +471,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868353" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25196165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25196165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -523,8 +556,6 @@
           <folding>
             <element signature="e#433#455#0" expanded="true" />
             <element signature="e#538#558#0" expanded="true" />
-            <element signature="e#624#653#0" expanded="true" />
-            <element signature="e#624#653#0" expanded="true" />
             <element signature="e#685#707#0" expanded="true" />
           </folding>
         </state>
@@ -573,6 +604,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/ExamplesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
@@ -580,8 +624,6 @@
           <folding>
             <element signature="e#433#455#0" expanded="true" />
             <element signature="e#538#558#0" expanded="true" />
-            <element signature="e#624#653#0" expanded="true" />
-            <element signature="e#624#653#0" expanded="true" />
             <element signature="e#685#707#0" expanded="true" />
           </folding>
         </state>
@@ -589,17 +631,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests2/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1150">
+          <caret line="50" column="45" lean-forward="true" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding>
+            <element signature="e#395#412#0" expanded="true" />
+            <element signature="e#475#496#0" expanded="true" />
+            <element signature="e#475#496#0" expanded="true" />
+            <element signature="e#522#539#0" expanded="true" />
+            <element signature="e#626#645#0" expanded="true" />
+            <element signature="e#709#736#0" expanded="true" />
+            <element signature="e#709#736#0" expanded="true" />
+            <element signature="e#772#791#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
