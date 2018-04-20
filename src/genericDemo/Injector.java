@@ -1,5 +1,6 @@
 package genericDemo;
 
+import java.lang.reflect.Constructor;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -16,6 +17,15 @@ public class Injector {
     }
 
     public Object instantiate(Class<?> type){
+
+        try {
+            Constructor<?>[] constructors = type.getConstructors();
+            if (constructors.length !=1){
+
+            }
+        } catch (){
+
+        }
 
 
     }
