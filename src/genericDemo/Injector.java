@@ -31,5 +31,5 @@ public class Injector {
 
 
     }
-    public Object newInstance(final Class<?> className){return null; }
+    //public Object newInstance(final Class<?> className){return null; }
 }

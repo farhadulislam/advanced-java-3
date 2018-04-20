@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/genericDemo/LambdaExamples.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/genericDemo/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/genericDemo/RefiableExamples.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemo/Injector.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemo/Main.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/genericDemo/Injector.java" afterPath="$PROJECT_DIR$/src/genericDemo/Injector.java" />
-      <change beforePath="$PROJECT_DIR$/src/genericDemo/Main.java" afterPath="$PROJECT_DIR$/src/genericDemo/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Injector.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Injector.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/genericDemo/Injector.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="800">
@@ -65,6 +62,46 @@
                 <element signature="e#556#578#0" expanded="true" />
                 <element signature="e#647#679#0" expanded="true" />
                 <element signature="e#647#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RefiableExamples.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/genericDemo/RefiableExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#243#281#1" expanded="true" />
+                <element signature="e#263#280#0" expanded="true" />
+                <element signature="e#329#356#1" expanded="true" />
+                <element signature="e#340#355#0" expanded="true" />
+                <element signature="e#417#437#0" expanded="true" />
+                <element signature="e#439#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NonRefiableExamples.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#164#204#1" expanded="true" />
+                <element signature="e#186#203#0" expanded="true" />
+                <element signature="e#213#256#1" expanded="true" />
+                <element signature="e#238#255#0" expanded="true" />
+                <element signature="e#284#301#0" expanded="true" />
+                <element signature="e#331#350#0" expanded="true" />
+                <element signature="e#362#413#1" expanded="true" />
+                <element signature="e#395#412#0" expanded="true" />
+                <element signature="e#441#459#0" expanded="true" />
+                <element signature="e#461#480#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,6 +209,8 @@
         <option value="$PROJECT_DIR$/src/genericDemo/LambdaExamples.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/Main.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/Injector.java" />
+        <option value="$PROJECT_DIR$/src/genericDemo/RefiableExamples.java" />
+        <option value="$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java" />
       </list>
     </option>
   </component>
@@ -274,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LambdaExamples">
+  <component name="RunManager" selected="Application.RefiableExamples">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -289,6 +328,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="genericDemo.LambdaExamples" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="advanced-java-3" />
+      <envs />
+    </configuration>
+    <configuration name="RefiableExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="genericDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="genericDemo.RefiableExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -342,26 +400,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ProductTest" />
       <option name="METHOD_NAME" value="getProductName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ProductTest.setProductId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="advanced-java-3" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProductTest" />
-      <option name="METHOD_NAME" value="setProductId" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -456,18 +494,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.ProductTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductId" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductName" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductName" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LambdaExamples" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductName" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductName" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LambdaExamples" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RefiableExamples" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LambdaExamples" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ProductTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductName" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductName" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductId" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RefiableExamples" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LambdaExamples" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ProductTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ProductTest.setProductName" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ProductTest.getProductName" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +574,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25196165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25196165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -798,6 +836,42 @@
             <element signature="e#556#578#0" expanded="true" />
             <element signature="e#647#679#0" expanded="true" />
             <element signature="e#647#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/genericDemo/RefiableExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#281#1" expanded="true" />
+            <element signature="e#263#280#0" expanded="true" />
+            <element signature="e#329#356#1" expanded="true" />
+            <element signature="e#340#355#0" expanded="true" />
+            <element signature="e#417#437#0" expanded="true" />
+            <element signature="e#439#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#164#204#1" expanded="true" />
+            <element signature="e#186#203#0" expanded="true" />
+            <element signature="e#213#256#1" expanded="true" />
+            <element signature="e#238#255#0" expanded="true" />
+            <element signature="e#284#301#0" expanded="true" />
+            <element signature="e#331#350#0" expanded="true" />
+            <element signature="e#362#413#1" expanded="true" />
+            <element signature="e#395#412#0" expanded="true" />
+            <element signature="e#441#459#0" expanded="true" />
+            <element signature="e#461#480#0" expanded="true" />
           </folding>
         </state>
       </provider>
