@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/genericDemo/RefiableExamples.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/genericDemo/Injector.java" afterPath="$PROJECT_DIR$/src/genericDemo/Injector.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,22 +43,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Injector.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Injector.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/genericDemo/Injector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="14">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#248#288#0" expanded="true" />
-                <element signature="e#264#280#0" expanded="true" />
-                <element signature="e#248#288#0" expanded="true" />
-                <element signature="e#248#288#0" expanded="true" />
-                <element signature="e#385#442#0" expanded="true" />
-                <element signature="e#524#579#1" expanded="true" />
-                <element signature="e#556#578#0" expanded="true" />
-                <element signature="e#647#679#0" expanded="true" />
-                <element signature="e#647#679#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#349#405#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#467#507#0" expanded="true" />
+                <element signature="e#483#499#0" expanded="true" />
+                <element signature="e#467#507#0" expanded="true" />
+                <element signature="e#467#507#0" expanded="true" />
+                <element signature="e#623#678#1" expanded="true" />
+                <element signature="e#655#677#0" expanded="true" />
+                <element signature="e#691#840#0" expanded="true" />
+                <element signature="e#691#840#0" expanded="true" />
+                <element signature="e#691#840#0" expanded="true" />
+                <element signature="e#691#840#0" expanded="true" />
+                <element signature="e#786#824#0" expanded="true" />
+                <element signature="e#786#824#0" expanded="true" />
+                <element signature="e#854#899#1" expanded="true" />
+                <element signature="e#912#1065#1" expanded="true" />
+                <element signature="e#938#969#0" expanded="true" />
+                <element signature="e#1005#1032#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,8 +77,8 @@
       <file leaf-file-name="RefiableExamples.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/genericDemo/RefiableExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="450">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#243#281#1" expanded="true" />
@@ -85,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NonRefiableExamples.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NonRefiableExamples.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -208,9 +215,9 @@
         <option value="$PROJECT_DIR$/src/genericDemo/Person.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/LambdaExamples.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/Main.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/Injector.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/RefiableExamples.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java" />
+        <option value="$PROJECT_DIR$/src/genericDemo/Injector.java" />
       </list>
     </option>
   </component>
@@ -821,41 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemo/Injector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#248#288#0" expanded="true" />
-            <element signature="e#264#280#0" expanded="true" />
-            <element signature="e#248#288#0" expanded="true" />
-            <element signature="e#248#288#0" expanded="true" />
-            <element signature="e#385#442#0" expanded="true" />
-            <element signature="e#524#579#1" expanded="true" />
-            <element signature="e#556#578#0" expanded="true" />
-            <element signature="e#647#679#0" expanded="true" />
-            <element signature="e#647#679#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemo/RefiableExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#281#1" expanded="true" />
-            <element signature="e#263#280#0" expanded="true" />
-            <element signature="e#329#356#1" expanded="true" />
-            <element signature="e#340#355#0" expanded="true" />
-            <element signature="e#417#437#0" expanded="true" />
-            <element signature="e#439#453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -872,6 +844,51 @@
             <element signature="e#395#412#0" expanded="true" />
             <element signature="e#441#459#0" expanded="true" />
             <element signature="e#461#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/genericDemo/RefiableExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#281#1" expanded="true" />
+            <element signature="e#263#280#0" expanded="true" />
+            <element signature="e#329#356#1" expanded="true" />
+            <element signature="e#340#355#0" expanded="true" />
+            <element signature="e#417#437#0" expanded="true" />
+            <element signature="e#439#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/genericDemo/Injector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#349#405#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#467#507#0" expanded="true" />
+            <element signature="e#483#499#0" expanded="true" />
+            <element signature="e#467#507#0" expanded="true" />
+            <element signature="e#467#507#0" expanded="true" />
+            <element signature="e#623#678#1" expanded="true" />
+            <element signature="e#655#677#0" expanded="true" />
+            <element signature="e#691#840#0" expanded="true" />
+            <element signature="e#691#840#0" expanded="true" />
+            <element signature="e#691#840#0" expanded="true" />
+            <element signature="e#691#840#0" expanded="true" />
+            <element signature="e#786#824#0" expanded="true" />
+            <element signature="e#786#824#0" expanded="true" />
+            <element signature="e#854#899#1" expanded="true" />
+            <element signature="e#912#1065#1" expanded="true" />
+            <element signature="e#938#969#0" expanded="true" />
+            <element signature="e#1005#1032#0" expanded="true" />
           </folding>
         </state>
       </provider>
