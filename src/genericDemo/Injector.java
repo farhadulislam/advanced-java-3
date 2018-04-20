@@ -13,6 +13,8 @@ public class Injector {
         return this;
     }
     public <T> T newInstance(final Class<T> type){
+
+
         return (T) objectGraph.computeIfAbsent(type, this ::instantiate);
     }
 
@@ -23,7 +25,7 @@ public class Injector {
             if (constructors.length !=1){
 
             }
-        } catch (){
+        } catch (Exception e) {
 
         }
 
