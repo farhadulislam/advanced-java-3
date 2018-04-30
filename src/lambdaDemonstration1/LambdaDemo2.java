@@ -1,8 +1,10 @@
-package genericDemo;
+package lambdaDemonstration1;
+
+import genericDemonstration1.Person;
 
 import java.util.function.Predicate;
 
-public class LambdaExamples {
+public class LambdaDemo2 {
 
 
     public static void main (String... args){

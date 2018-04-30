@@ -1,4 +1,4 @@
-package genericDemo;
+package genericDemonstration1;
 
 public class Logger {
     private String value;
