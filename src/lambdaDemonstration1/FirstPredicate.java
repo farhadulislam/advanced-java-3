@@ -9,6 +9,7 @@ public class FirstPredicate {
         Stream<String> stream = Stream.of("one", "two", "three", "four", "five", "six");
         Predicate<String> p1 = s -> s.length()> 3;
         Predicate<String> p2 = s -> s.contains("o") || s.contains("t");
+        Predicate<String> p3 =  s -> s.startsWith("f");
 
 
         stream
