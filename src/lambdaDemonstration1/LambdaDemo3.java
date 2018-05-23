@@ -14,5 +14,6 @@ public class LambdaDemo3 {
         NumberExample ne  = (n)-> n/2;
 
         System.out.println("The factorial of 3 is " + fact1.func(3));
+
     }
 }
