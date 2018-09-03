@@ -3,16 +3,22 @@ package genericDemonstration1;
 public class Dummy {
 
 
-    public static Integer;
-    public static void main (String [] args){
+    public static Integer tracker;
 
+    public static void main (String [] args){
+        init();
         doSomething();
     }
 
     public static void doSomething(){
 
         System.out.println("doing something .....");
+        tracker++;
 
     }
-    public stat
+    public static void init(){
+        if (tracker==null){
+            tracker = 0;
+        }
+    }
 }

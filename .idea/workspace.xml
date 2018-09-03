@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemonstration1/Dummy.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/genericDemonstration1/Dummy.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemonstration1/HashMapDemo1.class" afterPath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemonstration1/HashMapDemo1.class" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/Dummy.java" afterPath="$PROJECT_DIR$/src/genericDemonstration1/Dummy.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,8 +95,8 @@
       <file leaf-file-name="Dummy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Dummy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="425">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -839,6 +836,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -939,8 +939,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Dummy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        <state relative-caret-position="425">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
