@@ -19,8 +19,8 @@ public class DateClassDemo {
 
         Calendar calendar1 = Calendar.getInstance();
         Calendar calendar2 = Calendar.getInstance();
-        calendar1.set(2018, 9, 11);
-        calendar2.set(2018, 10, 11);
+        calendar1.set(2018, 7, 07);
+        calendar2.set(2018, 10, 15);
 
         boolean before = calendar1.before(calendar2);
         System.out.println("Is first date before the last date? " + before);
@@ -29,8 +29,12 @@ public class DateClassDemo {
         long diff = end- start;
         System.out.println(diff);
 
-        int daysPassed = (int) ((diff / (1000*60*60*24)) % 7);
-        System.out.println(daysPassed);
+        int daysPassed = (int) ((diff / (1000*60*60*24)));
+        int hoursPassed   = (int) ((diff / (1000*60*60)));
+        System.out.println("Days Passed " + daysPassed);
+        System.out.println("Hours Passed " + hoursPassed);
+
+
 
         System.out.println("Date class Demo");
 
