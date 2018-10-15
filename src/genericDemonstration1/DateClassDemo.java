@@ -10,6 +10,21 @@ public class DateClassDemo {
     }
 
     public static void main (String [] args){
+        String months[] = {
+                "Jan", "Feb", "Mar", "Apr",
+                "May", "Jun", "Jul", "Aug",
+                "Sep", "Oct", "Nov", "Dec"};
+
+        Calendar calendar1 = Calendar.getInstance();
+        Calendar calendar2 = Calendar.getInstance();
+        calendar1.set(2018, 03, 11);
+        calendar1.set(2018, 10, 11);
+
+        boolean before = calendar1.before(calendar2);
+        System.out.println(before);
+
+
+
 
         System.out.println("Date class Demo");
 
