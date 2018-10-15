@@ -10,6 +10,8 @@ public class DateClassDemo {
     }
 
     public static void main (String [] args){
+
+
         String months[] = {
                 "Jan", "Feb", "Mar", "Apr",
                 "May", "Jun", "Jul", "Aug",
@@ -17,14 +19,18 @@ public class DateClassDemo {
 
         Calendar calendar1 = Calendar.getInstance();
         Calendar calendar2 = Calendar.getInstance();
-        calendar1.set(2018, 03, 11);
-        calendar1.set(2018, 10, 11);
+        calendar1.set(2018, 9, 11);
+        calendar2.set(2018, 10, 11);
 
         boolean before = calendar1.before(calendar2);
-        System.out.println(before);
+        System.out.println("Is first date before the last date? " + before);
+        long end = calendar2.getTimeInMillis();
+        long start = calendar1.getTimeInMillis();
+        long diff = end- start;
+        System.out.println(diff);
 
-
-
+        int daysPassed = (int) ((diff / (1000*60*60*24)) % 7);
+        System.out.println(daysPassed);
 
         System.out.println("Date class Demo");
 
