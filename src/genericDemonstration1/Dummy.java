@@ -8,6 +8,10 @@ public class Dummy {
     public static void main (String [] args){
         init();
         doSomething();
+
+        //var contextSensitiveVar = 10; Not yet ready
+
+        System.out.println(tracker);
     }
 
     public static void doSomething(){
@@ -20,5 +24,7 @@ public class Dummy {
         if (tracker==null){
             tracker = 0;
         }
+
+
     }
 }
