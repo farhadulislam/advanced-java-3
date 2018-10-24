@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo2.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemonstration1/DateClassDemo.class" afterPath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemonstration1/DateClassDemo.class" />
-      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java" afterPath="$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/genericDemonstration1/DateClassDemo.class" afterPath="$PROJECT_DIR$/out/production/advanced-java-3/demonstration1/DateClassDemo.class" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java" afterPath="$PROJECT_DIR$/src/demonstration1/DateClassDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,61 +27,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DateClassDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java">
+      <file leaf-file-name="InitializationBlockDemo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="400">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#189#341#1" expanded="true" />
-                <element signature="e#351#395#1" expanded="true" />
-                <element signature="e#372#394#0" expanded="true" />
-                <element signature="e#404#448#1" expanded="true" />
-                <element signature="e#425#447#0" expanded="true" />
-                <element signature="e#532#577#1" expanded="true" />
-                <element signature="e#605#652#0" expanded="true" />
-                <element signature="e#605#652#0" expanded="true" />
-                <element signature="e#663#702#1" expanded="true" />
-                <element signature="e#674#701#0" expanded="true" />
-                <element signature="e#711#752#1" expanded="true" />
-                <element signature="e#724#751#0" expanded="true" />
-                <element signature="e#761#784#1" expanded="true" />
-                <element signature="e#773#783#0" expanded="true" />
-                <element signature="e#828#878#1" expanded="true" />
-                <element signature="e#845#877#0" expanded="true" />
-                <element signature="e#853#875#0" expanded="true" />
-                <element signature="e#853#875#0" expanded="true" />
-                <element signature="e#845#877#0" expanded="true" />
-                <element signature="e#887#937#1" expanded="true" />
-                <element signature="e#907#936#0" expanded="true" />
-                <element signature="e#915#934#0" expanded="true" />
-                <element signature="e#915#934#0" expanded="true" />
-                <element signature="e#907#936#0" expanded="true" />
-                <element signature="e#965#992#0" expanded="true" />
-                <element signature="e#965#992#0" expanded="true" />
-                <element signature="e#1022#1051#0" expanded="true" />
-                <element signature="e#1022#1051#0" expanded="true" />
-                <element signature="e#1113#1136#1" expanded="true" />
-                <element signature="e#1181#1217#1" expanded="true" />
-                <element signature="e#1202#1216#0" expanded="true" />
-                <element signature="e#1270#1328#1" expanded="true" />
-                <element signature="e#1284#1327#0" expanded="true" />
-                <element signature="e#1292#1320#0" expanded="true" />
-                <element signature="e#1292#1320#0" expanded="true" />
-                <element signature="e#1284#1327#0" expanded="true" />
+                <element signature="e#86#104#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InitializationBlockDemo1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java">
+      <file leaf-file-name="DateClassDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demonstration1/DateClassDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
-                <element signature="e#86#104#1" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InitializationBlockDemo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#134#145#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,18 +89,6 @@
             <state relative-caret-position="100">
               <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstPredicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/FirstPredicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -223,6 +187,8 @@
         <option value="$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java" />
         <option value="$PROJECT_DIR$/src/genericDemonstration1/InitializationBlockDemo1.java" />
         <option value="$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java" />
+        <option value="$PROJECT_DIR$/src/demonstration1/DateClassDemo.java" />
+        <option value="$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo2.java" />
       </list>
     </option>
   </component>
@@ -340,7 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InitializationBlockDemo1">
+  <component name="RunManager" selected="Application.InitializationBlockDemo2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -354,7 +320,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="genericDemonstration1.DateClassDemo" />
+      <option name="MAIN_CLASS_NAME" value="demonstration1.DateClassDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -385,14 +351,14 @@
       <module name="advanced-java-3" />
       <envs />
     </configuration>
-    <configuration name="HashMapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InitializationBlockDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="demonstration1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="genericDemonstration1.HashMapDemo1" />
+      <option name="MAIN_CLASS_NAME" value="demonstration1.InitializationBlockDemo1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -404,14 +370,14 @@
       <module name="advanced-java-3" />
       <envs />
     </configuration>
-    <configuration name="InitializationBlockDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InitializationBlockDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="demonstration1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="demonstration1.InitializationBlockDemo1" />
+      <option name="MAIN_CLASS_NAME" value="demonstration1.InitializationBlockDemo2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -518,18 +484,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.LambdaDemo3" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HashMapDemo1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Dummy" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DateClassDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.InitializationBlockDemo1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Dummy" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DateClassDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InitializationBlockDemo1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.InitializationBlockDemo2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.InitializationBlockDemo1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DateClassDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Dummy" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LambdaDemo3" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HashMapDemo1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.InitializationBlockDemo2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InitializationBlockDemo1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DateClassDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Dummy" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LambdaDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -598,12 +564,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24971494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17787914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26638025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20998926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -626,18 +592,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/FirstLambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="22" column="40" lean-forward="false" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#401#402#0" expanded="false" />
-            <element signature="e#444#445#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tests2/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
@@ -974,58 +928,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="400">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#189#341#1" expanded="true" />
-            <element signature="e#351#395#1" expanded="true" />
-            <element signature="e#372#394#0" expanded="true" />
-            <element signature="e#404#448#1" expanded="true" />
-            <element signature="e#425#447#0" expanded="true" />
-            <element signature="e#532#577#1" expanded="true" />
-            <element signature="e#605#652#0" expanded="true" />
-            <element signature="e#605#652#0" expanded="true" />
-            <element signature="e#663#702#1" expanded="true" />
-            <element signature="e#674#701#0" expanded="true" />
-            <element signature="e#711#752#1" expanded="true" />
-            <element signature="e#724#751#0" expanded="true" />
-            <element signature="e#761#784#1" expanded="true" />
-            <element signature="e#773#783#0" expanded="true" />
-            <element signature="e#828#878#1" expanded="true" />
-            <element signature="e#845#877#0" expanded="true" />
-            <element signature="e#853#875#0" expanded="true" />
-            <element signature="e#853#875#0" expanded="true" />
-            <element signature="e#845#877#0" expanded="true" />
-            <element signature="e#887#937#1" expanded="true" />
-            <element signature="e#907#936#0" expanded="true" />
-            <element signature="e#915#934#0" expanded="true" />
-            <element signature="e#915#934#0" expanded="true" />
-            <element signature="e#907#936#0" expanded="true" />
-            <element signature="e#965#992#0" expanded="true" />
-            <element signature="e#965#992#0" expanded="true" />
-            <element signature="e#1022#1051#0" expanded="true" />
-            <element signature="e#1022#1051#0" expanded="true" />
-            <element signature="e#1113#1136#1" expanded="true" />
-            <element signature="e#1181#1217#1" expanded="true" />
-            <element signature="e#1202#1216#0" expanded="true" />
-            <element signature="e#1270#1328#1" expanded="true" />
-            <element signature="e#1284#1327#0" expanded="true" />
-            <element signature="e#1292#1320#0" expanded="true" />
-            <element signature="e#1292#1320#0" expanded="true" />
-            <element signature="e#1284#1327#0" expanded="true" />
+            <element signature="e#86#104#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java">
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/DateClassDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
-            <element signature="e#86#104#1" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#134#145#1" expanded="true" />
           </folding>
         </state>
       </provider>

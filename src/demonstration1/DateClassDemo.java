@@ -1,4 +1,4 @@
-package genericDemonstration1;
+package demonstration1;
 
 import java.util.Calendar;
 import java.util.Date;
