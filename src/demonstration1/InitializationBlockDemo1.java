@@ -4,6 +4,7 @@ public class InitializationBlockDemo1 {
     static {
         int capacity = 20;
     }
+    Integer number = 300;
 
     public static int capacity2 = initializeClassVariable();
 
