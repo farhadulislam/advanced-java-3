@@ -4,6 +4,9 @@ public class CBExcercise {
 
     public static void main (String [] args){
 
+        cigarParty(30, false);// → false
+        cigarParty(50, false);// → true
+        cigarParty(70, true);// → true
 
     }
 
@@ -12,7 +15,7 @@ public class CBExcercise {
         cigarParty(30, false) → false
         cigarParty(50, false) → true
         cigarParty(70, true) → true*/
-    public boolean cigarParty(int cigars, boolean isWeekend) {
+    public static boolean cigarParty(int cigars, boolean isWeekend) {
 
         if (!isWeekend && cigars <= 60 && cigars >=40){
             return true;
