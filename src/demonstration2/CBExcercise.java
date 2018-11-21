@@ -26,4 +26,11 @@ public class CBExcercise {
             return false;
         }
     }
-}
+
+    public static boolean cigarParty2(int cigars, boolean isWeekend) {
+
+
+            return (isWeekend && cigars >= 40 || (!isWeekend && ((cigars >= 40) || (cigars <= 60)))) ? true : false;
+        }
+    }
+
