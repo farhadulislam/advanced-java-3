@@ -1,4 +1,4 @@
-package genericDemonstration1;
+package demonstration1;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -19,8 +19,8 @@ public class DateClassDemo {
 
         Calendar calendar1 = Calendar.getInstance();
         Calendar calendar2 = Calendar.getInstance();
-        calendar1.set(2018, 7, 07);
-        calendar2.set(2018, 10, 15);
+        calendar1.set(2005, 10, 06);
+        calendar2.set(2018, 10, 24);
 
         boolean before = calendar1.before(calendar2);
         System.out.println("Is first date before the last date? " + before);
