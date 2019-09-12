@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demonstration1/GenDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demonstration1/GenExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demonstration1/EnumDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/demonstration1/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-3/demonstration1/StringDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,55 +17,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo1.java">
+        <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration1/GenDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration1/StringDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="500">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java">
+        <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Injector.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demonstration1/StringDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demonstration1/SortFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -109,6 +84,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demonstration1/EnumDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -126,10 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/genericDemo/Main.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/RefiableExamples.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/NonRefiableExamples.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/Injector.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/LoopExample.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/LambdaDemo1.java" />
         <option value="$PROJECT_DIR$/src/genericDemo/FirstLambda.java" />
@@ -151,7 +131,6 @@
         <option value="$PROJECT_DIR$/src/lambdaDemonstration1/FactorialExample.java" />
         <option value="$PROJECT_DIR$/src/lambdaDemonstration1/NumberExample.java" />
         <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo3.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java" />
         <option value="$PROJECT_DIR$/src/genericDemonstration1/Dummy.java" />
         <option value="$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java" />
         <option value="$PROJECT_DIR$/src/genericDemonstration1/InitializationBlockDemo1.java" />
@@ -174,13 +153,18 @@
         <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo1.java" />
         <option value="$PROJECT_DIR$/src/demonstration1/GenDemo.java" />
         <option value="$PROJECT_DIR$/src/demonstration1/GenExample1.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" />
         <option value="$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java" />
         <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java" />
+        <option value="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" />
+        <option value="$PROJECT_DIR$/src/demonstration1/EnumDemo.java" />
+        <option value="$PROJECT_DIR$/src/demonstration1/BufferedReaderDemo.java" />
+        <option value="$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java" />
+        <option value="$PROJECT_DIR$/src/genericDemonstration1/Injector.java" />
+        <option value="$PROJECT_DIR$/src/demonstration1/NamedClassExample.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-15" />
     <option name="y" value="10" />
     <option name="width" value="1940" />
@@ -191,8 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,10 +229,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555592979331" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568039090873" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Tests2" />
@@ -289,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LamdaDemo4">
+  <component name="RunManager" selected="Application.SortFile">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -298,8 +282,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demonstration1.GenDemo" />
+    <configuration name="BufferedReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demonstration1.BufferedReaderDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -312,27 +296,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.LambdaDemo1" />
+    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demonstration1.EnumDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.LambdaDemo2" />
-      <module name="advanced-java-3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="PATTERN" value="demonstration1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,6 +317,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demonstration1.SortFile" />
+      <module name="advanced-java-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demonstration1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,19 +386,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GenDemo" />
-      <item itemvalue="Application.LambdaDemo1" />
-      <item itemvalue="Application.LambdaDemo2" />
-      <item itemvalue="Application.StringDemo1" />
+      <item itemvalue="Application.BufferedReaderDemo" />
+      <item itemvalue="Application.EnumDemo" />
       <item itemvalue="Application.LamdaDemo4" />
+      <item itemvalue="Application.SortFile" />
+      <item itemvalue="Application.StringDemo1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LamdaDemo4" />
+        <item itemvalue="Application.SortFile" />
+        <item itemvalue="Application.BufferedReaderDemo" />
+        <item itemvalue="Application.EnumDemo" />
         <item itemvalue="Application.StringDemo1" />
-        <item itemvalue="Application.GenDemo" />
-        <item itemvalue="Application.LambdaDemo2" />
-        <item itemvalue="Application.LambdaDemo1" />
+        <item itemvalue="Application.LamdaDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -469,9 +453,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="8" width="1552" height="840" extended-state="0" />
+    <frame x="-12" y="8" width="1552" height="840" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31367293" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -486,9 +471,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.327252" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32627118" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909605" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -499,34 +484,6 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482277" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13340935" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.327252" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.java">
@@ -541,13 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/GenericDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -650,27 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Injector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/SortFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -749,16 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/DateClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -768,8 +687,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -777,6 +696,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/DateClassDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/BufferedReaderDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/GenericDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/NamedClassExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/StringDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/SortFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -808,33 +788,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/StringDemo1.java">
+    <entry file="file://$PROJECT_DIR$/src/demonstration1/EnumDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="320">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Injector.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
