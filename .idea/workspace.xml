@@ -2,98 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/demonstration1/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demonstration1/Outer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/demonstration1/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-3/demonstration1/StringDemo1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Injector.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration1/StringDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration1/SortFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration1/GenExample1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration2/ConvertStringToNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/NonRefiableExamples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration2/OverloadDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demonstration1/EnumDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,134 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/genericDemo/LoopExample.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/LambdaDemo1.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/FirstLambda.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/MyNumber.java" />
-        <option value="$PROJECT_DIR$/src/NumericTest.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/LambdaDemonstration1/FirstLambda.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/LambdaDemonstration1/MyNumber.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/LambdaDemonstration1/NumericTest.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/LambdaDemonstration1/LambdaDemo1.java" />
-        <option value="$PROJECT_DIR$/src/genericDemo/LambdaDemonstration1/LambdaExamples.java" />
-        <option value="$PROJECT_DIR$/src/LambdaDemonstration1/LambdaExamples.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaExamples.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/lambdaDemo2.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo2.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/UsingIterator.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/FirstPredicate.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/FlatMapExample.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/FactorialExample.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/NumberExample.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo3.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/Dummy.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/DateClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/InitializationBlockDemo1.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/DateClassDemo.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo2.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/GenerateServerNames.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/ReadFile.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/Application2.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/GenerateTags.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/SortFile.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/CBExcercise.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/ConvertStringToNumbers.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/Application.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/IntegerStringConverter.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/TypeDemo1.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/Box.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/OverloadDemo1.java" />
-        <option value="$PROJECT_DIR$/src/demonstration2/DemoClass1.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo1.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/GenDemo.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/GenExample1.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java" />
-        <option value="$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/EnumDemo.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/BufferedReaderDemo.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java" />
-        <option value="$PROJECT_DIR$/src/genericDemonstration1/Injector.java" />
-        <option value="$PROJECT_DIR$/src/demonstration1/NamedClassExample.java" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-15" />
-    <option name="y" value="10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="demonstration1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="demonstration2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="genericDemonstration1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdaDemonstration1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced-java-3" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-java-3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1Tc72KvIHZSBMs092BhcJhXh3aE" />
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568039090873" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572611180957" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Tests2" />
@@ -273,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortFile">
+  <component name="RunManager" selected="Application.LamdasAsaArgumentsDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -282,13 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demonstration1.BufferedReaderDemo" />
+    <configuration name="ConvertStringToNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demonstration2.ConvertStringToNumbers" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demonstration1.*" />
+          <option name="PATTERN" value="demonstration2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,13 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demonstration1.EnumDemo" />
+    <configuration name="LambdasAsArgumentsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.LambdasAsArgumentsDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demonstration1.*" />
+          <option name="PATTERN" value="lambdaDemonstration1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LamdaDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.LamdaDemo4" />
+    <configuration name="LamdasAsaArgumentsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.LamdasAsaArgumentsDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -386,26 +185,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BufferedReaderDemo" />
-      <item itemvalue="Application.EnumDemo" />
-      <item itemvalue="Application.LamdaDemo4" />
+      <item itemvalue="Application.LambdasAsArgumentsDemo" />
       <item itemvalue="Application.SortFile" />
       <item itemvalue="Application.StringDemo1" />
+      <item itemvalue="Application.ConvertStringToNumbers" />
+      <item itemvalue="Application.LamdasAsaArgumentsDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LamdasAsaArgumentsDemo" />
+        <item itemvalue="Application.ConvertStringToNumbers" />
         <item itemvalue="Application.SortFile" />
-        <item itemvalue="Application.BufferedReaderDemo" />
-        <item itemvalue="Application.EnumDemo" />
+        <item itemvalue="Application.LambdasAsArgumentsDemo" />
         <item itemvalue="Application.StringDemo1" />
-        <item itemvalue="Application.LamdaDemo4" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -452,352 +246,18 @@
       <configuration name="ProductTest.setProductName" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-12" y="8" width="1552" height="840" extended-state="1" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19491525" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32627118" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909605" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/ExamplesTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/RefiableExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemo/LoopExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/Examples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/MyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests2/ProductTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/FlatMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/FactorialExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/NumberExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/FirstLambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Dummy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/FirstPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/UsingIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/ExamplesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/Application2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/GenerateTags.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/TypeDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/DemoClass1.java" />
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/IntegerStringConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/InitializationBlockDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/CBExcercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/GenDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/DateClassDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/BufferedReaderDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/GenericDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/NamedClassExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/StringDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/SortFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/GenExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/ConvertStringToNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/NonRefiableExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration2/OverloadDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demonstration1/EnumDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/genericDemonstration1/Injector.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
