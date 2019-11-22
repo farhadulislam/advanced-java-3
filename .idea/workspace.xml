@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LamdasAsaArgumentsDemo">
+  <component name="RunManager" selected="Application.LambdaExceptionDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -88,6 +88,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="demonstration2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.LambdaExceptionDemo" />
+      <module name="advanced-java-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaDemonstration1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,20 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demonstration1.StringDemo1" />
-      <module name="advanced-java-3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demonstration1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -187,17 +187,17 @@
     <list>
       <item itemvalue="Application.LambdasAsArgumentsDemo" />
       <item itemvalue="Application.SortFile" />
-      <item itemvalue="Application.StringDemo1" />
       <item itemvalue="Application.ConvertStringToNumbers" />
       <item itemvalue="Application.LamdasAsaArgumentsDemo" />
+      <item itemvalue="Application.LambdaExceptionDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExceptionDemo" />
         <item itemvalue="Application.LamdasAsaArgumentsDemo" />
         <item itemvalue="Application.ConvertStringToNumbers" />
         <item itemvalue="Application.SortFile" />
         <item itemvalue="Application.LambdasAsArgumentsDemo" />
-        <item itemvalue="Application.StringDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -213,38 +213,6 @@
       <updated>1524063694471</updated>
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="ExamplesTest - 2018.04.19 at 14h 54m 40s.xml">
-      <configuration name="ExamplesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExamplesTest_getExampleIdTest - 2018.04.19 at 14h 52m 32s.xml">
-      <configuration name="ExamplesTest.getExampleIdTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ExamplesTest_setExampleIdTest - 2018.04.19 at 14h 54m 04s.xml">
-      <configuration name="ExamplesTest.setExampleIdTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest - 2018.04.19 at 15h 03m 12s.xml">
-      <configuration name="ProductTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest - 2018.04.19 at 15h 06m 45s.xml">
-      <configuration name="ProductTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest - 2018.04.19 at 15h 15m 31s.xml">
-      <configuration name="ProductTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_getProductName - 2018.04.19 at 15h 09m 51s.xml">
-      <configuration name="ProductTest.getProductName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_setProductId - 2018.04.19 at 15h 08m 54s.xml">
-      <configuration name="ProductTest.setProductId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_setProductId - 2018.04.19 at 15h 09m 11s.xml">
-      <configuration name="ProductTest.setProductId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProductTest_setProductName - 2018.04.19 at 15h 11m 20s.xml">
-      <configuration name="ProductTest.setProductName" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
