@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VarCapture">
+  <component name="RunManager" selected="Application.MethodRefDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -123,13 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demonstration1.SortFile" />
+    <configuration name="MethodRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.MethodRefDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demonstration1.*" />
+          <option name="PATTERN" value="lambdaDemonstration1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SortFile" />
       <item itemvalue="Application.ConvertStringToNumbers" />
       <item itemvalue="Application.LamdasAsaArgumentsDemo" />
       <item itemvalue="Application.LambdaExceptionDemo" />
       <item itemvalue="Application.VarCapture" />
+      <item itemvalue="Application.MethodRefDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodRefDemo" />
         <item itemvalue="Application.VarCapture" />
         <item itemvalue="Application.LambdaExceptionDemo" />
         <item itemvalue="Application.LamdasAsaArgumentsDemo" />
         <item itemvalue="Application.ConvertStringToNumbers" />
-        <item itemvalue="Application.SortFile" />
       </list>
     </recent_temporary>
   </component>
