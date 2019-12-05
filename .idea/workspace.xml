@@ -72,25 +72,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodRefDemo">
+  <component name="RunManager" selected="Application.MethodRefDemo2">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertStringToNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demonstration2.ConvertStringToNumbers" />
-      <module name="advanced-java-3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demonstration2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,6 +111,20 @@
     </configuration>
     <configuration name="MethodRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.MethodRefDemo" />
+      <module name="advanced-java-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodRefDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.MethodRefDemo2" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -185,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConvertStringToNumbers" />
       <item itemvalue="Application.LamdasAsaArgumentsDemo" />
       <item itemvalue="Application.LambdaExceptionDemo" />
       <item itemvalue="Application.VarCapture" />
       <item itemvalue="Application.MethodRefDemo" />
+      <item itemvalue="Application.MethodRefDemo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodRefDemo2" />
         <item itemvalue="Application.MethodRefDemo" />
         <item itemvalue="Application.VarCapture" />
         <item itemvalue="Application.LambdaExceptionDemo" />
         <item itemvalue="Application.LamdasAsaArgumentsDemo" />
-        <item itemvalue="Application.ConvertStringToNumbers" />
       </list>
     </recent_temporary>
   </component>
