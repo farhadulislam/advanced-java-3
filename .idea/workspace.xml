@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InstanceMethodWithObjRefDemo">
+  <component name="RunManager" selected="Application.GenericMethodRefDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceMethodWithObjRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.InstanceMethodWithObjRefDemo" />
+    <configuration name="GenericMethodRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.GenericMethodRefDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.LambdaExceptionDemo" />
+    <configuration name="InstanceMethodWithObjRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.InstanceMethodWithObjRefDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -185,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LambdaExceptionDemo" />
       <item itemvalue="Application.VarCapture" />
       <item itemvalue="Application.MethodRefDemo" />
       <item itemvalue="Application.MethodRefDemo2" />
       <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
+      <item itemvalue="Application.GenericMethodRefDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethodRefDemo" />
         <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
         <item itemvalue="Application.MethodRefDemo2" />
         <item itemvalue="Application.MethodRefDemo" />
         <item itemvalue="Application.VarCapture" />
-        <item itemvalue="Application.LambdaExceptionDemo" />
       </list>
     </recent_temporary>
   </component>

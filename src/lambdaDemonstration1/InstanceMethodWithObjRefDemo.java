@@ -44,7 +44,6 @@ public class InstanceMethodWithObjRefDemo {
     public static void main (String [] args){
 
         int count;
-
         HighTemp[] weekDayHighs = {new HighTemp(89), new HighTemp(82),
                 new HighTemp(90),new HighTemp(89),
                 new HighTemp(89),new HighTemp(91),
