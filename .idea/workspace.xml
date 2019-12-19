@@ -72,11 +72,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericMethodRefDemo">
+  <component name="RunManager" selected="Application.ConstructorRefDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.ConstructorRefDemo" />
+      <module name="advanced-java-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,20 +151,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarCapture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.VarCapture" />
-      <module name="advanced-java-3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -185,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VarCapture" />
       <item itemvalue="Application.MethodRefDemo" />
       <item itemvalue="Application.MethodRefDemo2" />
       <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
       <item itemvalue="Application.GenericMethodRefDemo" />
+      <item itemvalue="Application.ConstructorRefDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorRefDemo" />
         <item itemvalue="Application.GenericMethodRefDemo" />
         <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
         <item itemvalue="Application.MethodRefDemo2" />
         <item itemvalue="Application.MethodRefDemo" />
-        <item itemvalue="Application.VarCapture" />
       </list>
     </recent_temporary>
   </component>
