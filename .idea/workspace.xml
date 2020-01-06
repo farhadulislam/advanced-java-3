@@ -72,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructorRefDemo">
+  <component name="RunManager" selected="Application.ConstructorRefDemo2">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -83,6 +83,20 @@
     </configuration>
     <configuration name="ConstructorRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.ConstructorRefDemo" />
+      <module name="advanced-java-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorRefDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.ConstructorRefDemo2" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -101,7 +115,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,21 +129,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.MethodRefDemo" />
-      <module name="advanced-java-3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,7 +143,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,19 +185,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MethodRefDemo" />
       <item itemvalue="Application.MethodRefDemo2" />
       <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
       <item itemvalue="Application.GenericMethodRefDemo" />
       <item itemvalue="Application.ConstructorRefDemo" />
+      <item itemvalue="Application.ConstructorRefDemo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorRefDemo2" />
         <item itemvalue="Application.ConstructorRefDemo" />
         <item itemvalue="Application.GenericMethodRefDemo" />
         <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
         <item itemvalue="Application.MethodRefDemo2" />
-        <item itemvalue="Application.MethodRefDemo" />
       </list>
     </recent_temporary>
   </component>
