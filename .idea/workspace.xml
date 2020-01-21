@@ -7,7 +7,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/advanced-java-3/demonstration1/StringDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/advanced-java-3/demonstration1/StringDemo1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demonstration1/StringDemo1.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +31,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Tc72KvIHZSBMs092BhcJhXh3aE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572611180957" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -60,19 +64,7 @@
       <recent name="C:\myDev18\myProjects\advanced-java-3\Test" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ConstructorRefDemo2">
+  <component name="RunManager" selected="Application.ConstructorRefDemo3">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -109,6 +101,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConstructorRefDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.ConstructorRefDemo3" />
+      <module name="advanced-java-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenericMethodRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.GenericMethodRefDemo" />
       <module name="advanced-java-3" />
@@ -125,20 +131,6 @@
     </configuration>
     <configuration name="InstanceMethodWithObjRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.InstanceMethodWithObjRefDemo" />
-      <module name="advanced-java-3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodRefDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.MethodRefDemo2" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -185,21 +177,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MethodRefDemo2" />
       <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
       <item itemvalue="Application.GenericMethodRefDemo" />
       <item itemvalue="Application.ConstructorRefDemo" />
       <item itemvalue="Application.ConstructorRefDemo2" />
+      <item itemvalue="Application.ConstructorRefDemo3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorRefDemo3" />
         <item itemvalue="Application.ConstructorRefDemo2" />
         <item itemvalue="Application.ConstructorRefDemo" />
         <item itemvalue="Application.GenericMethodRefDemo" />
         <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
-        <item itemvalue="Application.MethodRefDemo2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
