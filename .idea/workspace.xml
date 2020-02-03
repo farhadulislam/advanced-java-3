@@ -64,7 +64,7 @@
       <recent name="C:\myDev18\myProjects\advanced-java-3\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructorRefDemo3">
+  <component name="RunManager" selected="Application.ThreadDemo1">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -129,13 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceMethodWithObjRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.InstanceMethodWithObjRefDemo" />
+    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.ThreadDemo1" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
+          <option name="PATTERN" value="multithreadingDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,15 +181,15 @@
       <item itemvalue="Application.ConstructorRefDemo3" />
       <item itemvalue="Application.ConstructorRefDemo" />
       <item itemvalue="Application.GenericMethodRefDemo" />
-      <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
+      <item itemvalue="Application.ThreadDemo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadDemo1" />
         <item itemvalue="Application.ConstructorRefDemo3" />
         <item itemvalue="Application.ConstructorRefDemo2" />
         <item itemvalue="Application.ConstructorRefDemo" />
         <item itemvalue="Application.GenericMethodRefDemo" />
-        <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
       </list>
     </recent_temporary>
   </component>
