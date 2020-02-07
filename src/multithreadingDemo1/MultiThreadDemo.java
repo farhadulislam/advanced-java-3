@@ -1,7 +1,7 @@
 package multithreadingDemo1;
 
 class NewThread3 {
-    
+
         String name;
         Thread t;
         NewThread3(String threadName){
