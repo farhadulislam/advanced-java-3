@@ -1,6 +1,6 @@
 package multithreadingDemo1;
 
-class NewThread3 extends Thread {
+class NewThread3 {
 
         String name;
         Thread t;
@@ -44,7 +44,6 @@ class NewThread3 extends Thread {
             nt1.t.start();
             nt2.t.start();
             nt3.t.start();
-
 
             try{
 
