@@ -64,25 +64,11 @@
       <recent name="C:\myDev18\myProjects\advanced-java-3\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiThreadDemo">
+  <component name="RunManager" selected="Application.ThreadDemo1">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CurrentThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.CurrentThreadDemo" />
-      <module name="advanced-java-3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithreadingDemo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +103,20 @@
     </configuration>
     <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.ThreadDemo" />
+      <module name="advanced-java-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreadingDemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.ThreadDemo1" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -179,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CurrentThreadDemo" />
       <item itemvalue="Application.ExtendThreadDemo" />
       <item itemvalue="Application.MultiThreadDemo" />
       <item itemvalue="Application.ThreadDemo" />
       <item itemvalue="JUnit.multithreadingDemo1 in advanced-java-3" />
+      <item itemvalue="Application.ThreadDemo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadDemo1" />
         <item itemvalue="Application.MultiThreadDemo" />
         <item itemvalue="Application.ExtendThreadDemo" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="JUnit.multithreadingDemo1 in advanced-java-3" />
-        <item itemvalue="Application.CurrentThreadDemo" />
       </list>
     </recent_temporary>
   </component>
