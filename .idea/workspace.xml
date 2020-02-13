@@ -15,6 +15,9 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -64,7 +67,7 @@
       <recent name="C:\myDev18\myProjects\advanced-java-3\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructorRefDemo3">
+  <component name="RunManager" selected="Application.Synch">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -73,13 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.ConstructorRefDemo" />
+    <configuration name="DemoJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.DemoJoin" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
+          <option name="PATTERN" value="multithreadingDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,13 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorRefDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.ConstructorRefDemo2" />
+    <configuration name="MultiThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.MultiThreadDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="PATTERN" value="multithreadingDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,13 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorRefDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.ConstructorRefDemo3" />
+    <configuration name="Synch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.Synch" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.*" />
+          <option name="PATTERN" value="multithreadingDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMethodRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.GenericMethodRefDemo" />
+    <configuration name="ThreadDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.ThreadDemo1" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
+          <option name="PATTERN" value="multithreadingDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceMethodWithObjRefDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaDemonstration1.InstanceMethodWithObjRefDemo" />
+    <configuration name="UtiliyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.UtiliyClass" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaDemonstration1.ConstructorRefDem02" />
+          <option name="PATTERN" value="multithreadingDemo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,19 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
-      <item itemvalue="Application.GenericMethodRefDemo" />
-      <item itemvalue="Application.ConstructorRefDemo" />
-      <item itemvalue="Application.ConstructorRefDemo2" />
-      <item itemvalue="Application.ConstructorRefDemo3" />
+      <item itemvalue="Application.MultiThreadDemo" />
+      <item itemvalue="Application.ThreadDemo1" />
+      <item itemvalue="Application.UtiliyClass" />
+      <item itemvalue="Application.DemoJoin" />
+      <item itemvalue="Application.Synch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructorRefDemo3" />
-        <item itemvalue="Application.ConstructorRefDemo2" />
-        <item itemvalue="Application.ConstructorRefDemo" />
-        <item itemvalue="Application.GenericMethodRefDemo" />
-        <item itemvalue="Application.InstanceMethodWithObjRefDemo" />
+        <item itemvalue="Application.Synch" />
+        <item itemvalue="Application.DemoJoin" />
+        <item itemvalue="Application.UtiliyClass" />
+        <item itemvalue="Application.ThreadDemo1" />
+        <item itemvalue="Application.MultiThreadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +233,53 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1581008728734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581008728734" />
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580230055339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580230055339" />
+    <state x="438" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580996868988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1580996868988" />
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom" timestamp="1581607302158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581607302158" />
+    <state width="1493" height="234" key="GridCell.Tab.0.center" timestamp="1581607302157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581607302157" />
+    <state width="1493" height="234" key="GridCell.Tab.0.left" timestamp="1581607302157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581607302157" />
+    <state width="1493" height="234" key="GridCell.Tab.0.right" timestamp="1581607302157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581607302157" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1581527585771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1581527585771" />
+    <state x="209" y="34" key="new project wizard" timestamp="1581528212434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1581528212434" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581009831812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581009831812" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/advanced_java_3$UtiliyClass.ic" NAME="UtiliyClass Coverage Results" MODIFIED="1581439746059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>multithreadingDemo1.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
