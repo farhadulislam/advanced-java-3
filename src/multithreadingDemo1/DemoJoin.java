@@ -47,5 +47,22 @@ public class DemoJoin {
         System.out.println("Thread one is alive: "+ nt1.t.isAlive());
         System.out.println("Thread two is alive: "+ nt2.t.isAlive());
         System.out.println("Thread three is alive: "+ nt3.t.isAlive());
+
+        try {
+
+            nt1.t.join();
+            nt2.t.join();
+            nt3.t.join();
+
+        }catch(InterruptedException e){
+
+            System.out.println("Main thread interrupted");
+        }
+
+        System.out.println("Thread one is alive: "+ nt1.t.isAlive());
+        System.out.println("Thread two is alive: "+ nt2.t.isAlive());
+        System.out.println("Thread three is alive: "+ nt3.t.isAlive());
+
+        System.out.println("Main thread exiting");
     }
 }
