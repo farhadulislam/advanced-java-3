@@ -1,7 +1,7 @@
 package multithreadingDemo1;
 class Callme{
 
-    void call (String msg){
+    synchronized void call (String msg){
         System.out.println("["+ msg);
 
         try {
