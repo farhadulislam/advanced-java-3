@@ -67,7 +67,7 @@
       <recent name="C:\myDev18\myProjects\advanced-java-3\Test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoJoin">
+  <component name="RunManager" selected="Application.Synch">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtendThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.ExtendThreadDemo" />
+    <configuration name="MultiThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.MultiThreadDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.MultiThreadDemo" />
+    <configuration name="Synch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.Synch" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -180,19 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExtendThreadDemo" />
       <item itemvalue="Application.MultiThreadDemo" />
       <item itemvalue="Application.ThreadDemo1" />
       <item itemvalue="Application.UtiliyClass" />
       <item itemvalue="Application.DemoJoin" />
+      <item itemvalue="Application.Synch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Synch" />
         <item itemvalue="Application.DemoJoin" />
         <item itemvalue="Application.UtiliyClass" />
         <item itemvalue="Application.ThreadDemo1" />
         <item itemvalue="Application.MultiThreadDemo" />
-        <item itemvalue="Application.ExtendThreadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -247,22 +247,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="438" y="339" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1580996868988" />
-    <state width="1493" height="115" key="GridCell.Tab.0.bottom" timestamp="1581442184269">
+    <state width="1493" height="39" key="GridCell.Tab.0.bottom" timestamp="1581607125150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581442184269" />
-    <state width="1493" height="115" key="GridCell.Tab.0.center" timestamp="1581442184269">
+    <state width="1493" height="39" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581607125150" />
+    <state width="1493" height="39" key="GridCell.Tab.0.center" timestamp="1581607125150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581442184269" />
-    <state width="1493" height="115" key="GridCell.Tab.0.left" timestamp="1581442184269">
+    <state width="1493" height="39" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581607125150" />
+    <state width="1493" height="39" key="GridCell.Tab.0.left" timestamp="1581607125150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581442184269" />
-    <state width="1493" height="115" key="GridCell.Tab.0.right" timestamp="1581442184269">
+    <state width="1493" height="39" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581607125150" />
+    <state width="1493" height="39" key="GridCell.Tab.0.right" timestamp="1581607125150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581442184269" />
+    <state width="1493" height="39" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581607125150" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1581527585771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
