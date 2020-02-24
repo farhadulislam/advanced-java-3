@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/multithreadingDemo1/Synch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multithreadingDemo1/PC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/Synch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreadingDemo1/Synch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/Synch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreadingDemo1/Synch1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,11 +179,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DemoJoin" />
       <item itemvalue="Application.MultiThreadDemo" />
+      <item itemvalue="Application.Synch" />
       <item itemvalue="Application.ThreadDemo1" />
       <item itemvalue="Application.UtiliyClass" />
-      <item itemvalue="Application.DemoJoin" />
-      <item itemvalue="Application.Synch" />
     </list>
     <recent_temporary>
       <list>

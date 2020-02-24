@@ -64,8 +64,6 @@ public class Synch1 {
         }catch(InterruptedException e){
 
             System.out.println("Interrupted");
-
-
         }
     }
 
