@@ -57,6 +57,8 @@ public class Synch {
         }catch(InterruptedException e){
 
             System.out.println("Interrupted");
+
+
         }
 }
 
