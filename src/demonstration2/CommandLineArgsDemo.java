@@ -8,7 +8,16 @@ import java.nio.file.Paths;
 public class CommandLineArgsDemo {
 
     public static void main (String [] args){
+            if (args.length==0){
+                showUsage();
+                return;
+            }
 
+            String filename = args[0];
+            if(!Files.exists(Paths.get(filename))){
+                System.out.println("\n File not found");
+            }
+            showFileLines(filename);
 
     }
 
@@ -23,11 +32,17 @@ public class CommandLineArgsDemo {
             while((line = reader.readLine()) != null)
                 System.out.println(line);
 
-            
+
 
 
         }catch(Exception ex){
             System.out.println(ex.getClass().getSimpleName() + "-"+ ex.getMessage());
         }
+    }
+
+
+    private static void showUsage(){
+        System.out.println();
+        System.out.println("Please, provide a filename to process on the command line");
     }
 }
