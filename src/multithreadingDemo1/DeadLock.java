@@ -27,20 +27,20 @@ class A {
 }
 
 class B {
-    synchronized void bar(B b) {
-        String name = Thread . currentThread ().getName();
+    synchronized void bar(A b) {
+        String name = Thread.currentThread().getName();
 
         System.out.println(name + " entered B.bar");
 
 
-    try{
-        Thread.sleep(1000);
-    }catch(Exception e) {
-        System.out.println("B interrupted");
+        try {
+            Thread.sleep(1000);
+        } catch (Exception e) {
+            System.out.println("B interrupted");
+        }
+
+        System.out.println(name + " trying to call B.last()");
     }
-
-    System.out .println(name + " trying to call B.last()");
-
     synchronized void last(){
 
             System.out.println("Inside A.last");
