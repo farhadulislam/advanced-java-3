@@ -3,7 +3,50 @@
   <component name="ChangeListManager">
     <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreadingDemo1/DeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/Dummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/FlatMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/FlatMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/HashMapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/HashMapDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/Injector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/Injector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/NonRefiableExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/NonRefiableExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/RefiableExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/RefiableExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericDemonstration1/UsingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/generic01/UsingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/ConstructorRefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/ConstructorRefDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/ConstructorRefDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/ConstructorRefDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/ConstructorRefDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/ConstructorRefDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/FactorialExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/FactorialExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/FirstLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/FirstLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/FirstPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/FirstPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/GenericMethodRefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/GenericMethodRefDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/InstanceMethodWithObjRefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/InstanceMethodWithObjRefDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/LambdaDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/LambdaDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/LambdaDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/LambdaExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/LambdaExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/LamdaDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/LamdaDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/LamdasAsaArgumentsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/LamdasAsaArgumentsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/MethodRefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/MethodRefDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/MethodRefDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/MethodRefDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/MyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/MyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/NumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/NumberExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/NumericTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/NumericTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/NumericTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/UseMethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/UseMethodRef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaDemonstration1/VarCapture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/lambda01/VarCapture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/CurrentThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/CurrentThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/DeadLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/DemoJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/DemoJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/ExtendThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/ExtendThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/MultiThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/MultiThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/PCFixed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/PCFixed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/SuspendResume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/SuspendResume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/Synch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/Synch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/Synch1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/Synch1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/ThreadDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/ThreadDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multithreadingDemo1/UtiliyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/multithreading01/UtiliyClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +96,21 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="genericDemo" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\myDev18\myProjects\advanced-java-3\out" />
       <recent name="C:\myDev18\myProjects\advanced-java-3\Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\myDev18\myProjects\advanced-java-3\src\demonstration2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="genericDemo" />
     </key>
   </component>
   <component name="RunManager" selected="Application.CommandLineArgsDemo">
@@ -259,22 +305,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583233037040" />
-    <state width="1493" height="69" key="GridCell.Tab.0.bottom" timestamp="1583238525503">
+    <state width="1493" height="69" key="GridCell.Tab.0.bottom" timestamp="1583256568446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583238525503" />
-    <state width="1493" height="69" key="GridCell.Tab.0.center" timestamp="1583238525502">
+    <state width="1493" height="69" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
+    <state width="1493" height="69" key="GridCell.Tab.0.center" timestamp="1583256568446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583238525502" />
-    <state width="1493" height="69" key="GridCell.Tab.0.left" timestamp="1583238525502">
+    <state width="1493" height="69" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
+    <state width="1493" height="69" key="GridCell.Tab.0.left" timestamp="1583256568446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583238525502" />
-    <state width="1493" height="69" key="GridCell.Tab.0.right" timestamp="1583238525502">
+    <state width="1493" height="69" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
+    <state width="1493" height="69" key="GridCell.Tab.0.right" timestamp="1583256568446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583238525502" />
+    <state width="1493" height="69" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1581527585771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
