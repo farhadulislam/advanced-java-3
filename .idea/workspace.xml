@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="" />
+    <list default="true" id="1a36ae84-7962-4e7b-ac88-fad33c8c8866" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/Dummy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/FlatMapExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/HashMapDemo1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/HashMapDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/Injector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/Logger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/NonRefiableExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/RefiableExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/generic01/UsingIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/ConstructorRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/ConstructorRefDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/ConstructorRefDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/DoubleNumericArrayFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/EmptyArrayException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/FactorialExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/FirstLambda$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/FirstLambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/FirstPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/GenericMethodRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/HighTemp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/InstanceMethodWithObjRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/LambdaDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/LambdaDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/LambdaDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/LambdaExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/LamdaDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/LamdasAsaArgumentsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MethodRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MethodRefDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyArrayOps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyClass5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyClass6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyClass7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyClass7a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyFunc3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyFunc4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyFunc5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyFunc6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyFunc7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyStringOps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/MyStringOps2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/NumberExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/NumericTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/NumericTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/StringFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/StringFunc2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/StringFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/UseMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/lambda01/VarCapture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Caller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Caller2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Callme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Callme2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/CurrentThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/DeadLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/DemoJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/ExtendThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/MultiThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/MultithreadingDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/NewThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/NewThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/NewThread28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/NewThread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/NewThread4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/PCFixed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Q.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/SuspendResume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Synch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/Synch1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/ThreadDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/advanced-java-3/com/demo/multithreading01/UtiliyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demonstration2/LoggerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +151,7 @@
       <recent name="genericDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CommandLineArgsDemo">
+  <component name="RunManager" selected="Application.LoggerDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -90,13 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.MultiThreadDemo" />
+    <configuration name="LoggerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demonstration2.LoggerDemo" />
       <module name="advanced-java-3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreadingDemo1.*" />
+          <option name="PATTERN" value="demonstration2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,10 +188,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuspendResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.SuspendResume" />
+    <configuration name="MultiThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadingDemo1.MultiThreadDemo" />
       <module name="advanced-java-3" />
-      <option name="PROGRAM_PARAMETERS" value="file1.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="multithreadingDemo1.*" />
@@ -182,12 +266,13 @@
     <list>
       <item itemvalue="Application.CommandLineArgsDemo" />
       <item itemvalue="Application.MultiThreadDemo" />
-      <item itemvalue="Application.SuspendResume" />
       <item itemvalue="Application.Synch" />
       <item itemvalue="Application.UtiliyClass" />
+      <item itemvalue="Application.LoggerDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoggerDemo" />
         <item itemvalue="Application.CommandLineArgsDemo" />
         <item itemvalue="Application.Synch" />
         <item itemvalue="Application.UtiliyClass" />
@@ -259,22 +344,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583233037040" />
-    <state width="1493" height="69" key="GridCell.Tab.0.bottom" timestamp="1583256568446">
+    <state width="1493" height="69" key="GridCell.Tab.0.bottom" timestamp="1583429671751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
-    <state width="1493" height="69" key="GridCell.Tab.0.center" timestamp="1583256568446">
+    <state width="1493" height="69" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583429671751" />
+    <state width="1493" height="69" key="GridCell.Tab.0.center" timestamp="1583429671751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
-    <state width="1493" height="69" key="GridCell.Tab.0.left" timestamp="1583256568446">
+    <state width="1493" height="69" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583429671751" />
+    <state width="1493" height="69" key="GridCell.Tab.0.left" timestamp="1583429671751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
-    <state width="1493" height="69" key="GridCell.Tab.0.right" timestamp="1583256568446">
+    <state width="1493" height="69" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583429671751" />
+    <state width="1493" height="69" key="GridCell.Tab.0.right" timestamp="1583429671751">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="69" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583256568446" />
+    <state width="1493" height="69" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583429671751" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1581527585771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
