@@ -8,6 +8,8 @@ public class StringDemo1 {
 
       printNumber();
 
+      stringInternDemo();
+
     }
 
     static String reverseStr(String str) {
@@ -34,6 +36,25 @@ public class StringDemo1 {
                 }
 
             }
+
+
+    }
+
+    static void stringInternDemo(){
+
+        String s1 = "Patience is virtue";
+        String s2 = "Patience is virtue";
+        if(s1==s2)
+            System.out.println("true");
+
+        if(s1.equals(s2))
+            System.out.println("true");
+
+        String s3 = s1.intern();
+        String s4 = s2.intern();
+
+        if(s3==s4)
+            System.out.println("true");
 
 
     }
